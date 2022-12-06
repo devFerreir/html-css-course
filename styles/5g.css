@@ -1,0 +1,22 @@
+.freecode {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 0;
+}
+.user1 {
+  font-weight: initial;
+  color: grey;
+  font-size: 18px;
+}
+.description {
+  font-family: arial;
+  margin-top: 10px;
+}
+.description2 {
+  font-family: arial;
+}
+.user2 {
+  color: rgb(1, 200, 247);
+  cursor: pointer;
+}

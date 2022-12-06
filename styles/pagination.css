@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  margin-top: 500px;
+}
+a {
+  padding: 5px;
+}
+button {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: blue;
+  border: none;
+}
